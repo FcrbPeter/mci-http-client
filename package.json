@@ -1,0 +1,31 @@
+{
+  "name": "@fcrbpeter/mci-http-client",
+  "version": "1.0.0",
+  "description": "Http client for accessing web via proxy server",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FcrbPeter/mci-http-client.git"
+  },
+  "keywords": [
+    "http-client",
+    "proxy-server",
+    "axios",
+    "hpagent",
+    "hkmci",
+    "mci"
+  ],
+  "author": "fcrbpeter <fcrbpeter@gmail.com> (https://github.com/FcrbPeter)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FcrbPeter/mci-http-client/issues"
+  },
+  "homepage": "https://github.com/FcrbPeter/mci-http-client#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "hpagent": "^1.0.0"
+  }
+}
